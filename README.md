@@ -12,12 +12,12 @@ Currently, I am a Fintech Analyst at Modefinance (TeamSystem), focused on quanti
 
 My work spans the full product lifecycle, from model development and maintenance to data validation pipelines and the design of API-ready components for integration with external client systems. I also develop interactive frontend interfaces for client-facing platforms and produce technical documentation for both internal and external use.
 
-### 📚 My background
+### 📚 Background
 
 - M.Sc. in [*Scientific and Data-Intensive Computing*](https://sdic.units.it/) at **Università degli Studi di Trieste** & **SISSA**
 - B.Sc. in [*Physics*](https://df.units.it/) at **Università degli Studi di Trieste**
 
-### 💻 My programming languages
+### 💻 Programming languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -36,7 +36,7 @@ My work spans the full product lifecycle, from model development and maintenance
 
 OpenFOAM • MPI • OpenMP • PyTorch • NumPy • SciPy
 
-### 📄 My markup languages
+### 📄 Markup languages
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
