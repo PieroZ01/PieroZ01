@@ -14,8 +14,8 @@ My work spans the full product lifecycle, from model development and maintenance
 
 ### 📚 Background
 
-- M.Sc. in [*Scientific and Data-Intensive Computing*](https://sdic.units.it/) at **Università degli Studi di Trieste** & **SISSA**
-- B.Sc. in [*Physics*](https://df.units.it/) at **Università degli Studi di Trieste**
+- M.Sc. in *Scientific and Data-Intensive Computing* at **Università degli Studi di Trieste** & **SISSA**
+- B.Sc. in *Physics* at **Università degli Studi di Trieste**
 
 ### 💻 Programming languages
 
