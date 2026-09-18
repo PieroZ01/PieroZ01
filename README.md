@@ -2,9 +2,9 @@
 
 ## About me:
 
-I specialize in Scientific Machine Learning, Computational Fluid Dynamics, Deep Learning and High-Performance Computing.
+M.Sc. in Scientific and Data-Intensive Computing with a focus on Scientific Machine Learning, Computational Fluid Dynamics, Deep Learning and High-Performance Computing.
 
-I am experienced in developing data-driven and physics-based computational models across both research and production environments, spanning CFD surrogate modeling and quantitative financial systems.
+Experienced in developing data-driven and physics-based computational models across both research and production environments, spanning CFD surrogate modeling and quantitative financial systems. Also working on AI-powered automation solutions, including agentic workflows, RAG systems and MCP servers.
 
 ### 🚀 Current work
 
